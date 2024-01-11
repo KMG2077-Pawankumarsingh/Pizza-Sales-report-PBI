@@ -1,4 +1,4 @@
-# Pizza-Sales-report-PBI
+# Pizza-Sales-report-PBI  SQL Queries
 
 Total revenue
 1.	select SUM(total_price) as Total_Revenue from Tbl_pizza_sales;
